@@ -18,6 +18,7 @@ SqlConnect::SqlConnect(string domain, string user, string passwd)
 
 }
 
+
 SqlConnect::SqlConnect(string domain, string user, string passwd, string dbName)
 {
     try {

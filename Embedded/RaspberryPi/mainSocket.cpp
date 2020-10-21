@@ -31,6 +31,7 @@ void *sendRDS(void *);
 int openSocket(int);
 void *socketAndroid(void *);
 
+
 int main(int argc, char** argv)
 {   
     (void) signal(SIGINT,ctrl_c_handler);   

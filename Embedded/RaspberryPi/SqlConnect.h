@@ -8,6 +8,7 @@
 using namespace std;
 
 
+
 		class SqlConnect
 		{
 				sql::Driver *driver;
